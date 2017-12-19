@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Movie-It</string>
+
+    <string-array name="titles">
+        <item>Blade Runner 2049</item>
+        <item>Geostorm</item>
+        <item>It</item>
+        <item>Jigsaw</item>
+        <item>John Wick 2</item>
+        <item>Justice League</item>
+        <item>Minions</item>
+        <item>Spider-Man: Homecoming</item>
+        <item>Thor: The Dark World</item>
+        <item>Wonder Woman</item>
+    </string-array>
+
+    <string-array name="movie_imdb">
+
+        <item>IMDb:8.4</item>
+        <item>IMDb:5.7</item>
+        <item>IMDb:7.7</item>
+        <item>IMDb:6.1</item>
+        <item>IMDb:7.6</item>
+        <item>IMDb:8.1</item>
+        <item>IMDb:6.4</item>
+        <item>IMDb:7.6</item>
+        <item>IMDb:7.0</item>
+        <item>IMDb:7.6</item>
+
+    </string-array>
+
+    <string-array name="release_date">
+
+        <item>Release Date:03/10/17</item>
+        <item>Release Date:12/10/17</item>
+        <item>Release Date:05/07/17</item>
+        <item>Release Date:26/10/17</item>
+        <item>Release Date:30/01/17</item>
+        <item>Release Date:13/11/17</item>
+        <item>Release Date:11/07/17</item>
+        <item>Release Date:28/06/17</item>
+        <item>Release Date:22/10/17</item>
+        <item>Release Date:15/05/17</item>
+
+    </string-array>
+
+    <string-array name="budget">
+
+        <item>Budget:$150,000,000</item>
+        <item>Budget:$120,000,000</item>
+        <item>Budget:$35,000,000</item>
+        <item>Budget:$10,000,000</item>
+        <item>Budget:$40,000,000</item>
+        <item>Budget:$300,000,000</item>
+        <item>Budget:$75,000,000</item>
+        <item>Budget:$175,000,000</item>
+        <item>Budget:$170,000,000</item>
+        <item>Budget:$149,000,000</item>
+
+    </string-array>
+
+
+</resources>
